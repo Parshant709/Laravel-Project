@@ -1,0 +1,89 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.en h3{
+	color: white;
+	padding-top: 14px;
+	margin-bottom: -10px;
+	margin-left:32px;
+	font-size: 45px;
+	font-weight: bold;
+}
+.en span{
+	color: white;
+	margin-left:32px;
+	font-size:11px;
+	
+}
+.hd{
+	background-color: #252525;
+}
+.rowHeight{
+	height: 100px;
+}
+
+.li ul a{
+	font-size: 14px;
+	list-style: none;
+	float: left;
+	margin-left: 10px;
+	text-decoration: none;
+	color:white;
+}
+.se{
+	background-color: white;
+	width: 155px;
+}
+.img{
+	height: 60vh;
+}
+.fi ul a{
+	color: black;
+	height: 45px;
+	float: left;
+	text-decoration:none;
+	margin-left: 10px;
+}
+.p1{
+	
+	width: 60%;
+	height: 60%;
+
+}
+.t1{
+	padding-top: 10px;
+	font-size: 14px;
+}
+.t2{
+	font-size: 14px;
+}
+.t2 span{
+	font-size: 16px;
+}
+.d{
+	z-index: 1;
+	height: 40vh;
+}
+.cn{
+	position: absolute;
+	top: -5%;
+	
+}
+.f1{
+	background-color: #ccc;
+	font-weight: bold; 
+	font-size: 28px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+.faqRowHeight{
+	height: 35vh;
+	
+}
+.faql{
+	
+	
+}
